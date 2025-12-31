@@ -1,0 +1,1 @@
+ALTER TABLE `sales` MODIFY COLUMN `paymentMethod` enum('cash','pix','debit','credit') NOT NULL;
