@@ -1,0 +1,5 @@
+{
+  "name": "Modern House - Sistema de Gestão",
+  "description": "Um sistema corporativo completo de vendas, estoque e relatórios para a Modern House, incluindo PDV com geração de código de barras e recibos não fiscais.",
+  "requestFramePermissions": []
+}
